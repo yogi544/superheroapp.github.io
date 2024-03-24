@@ -1,3 +1,5 @@
+Live demo https://yogi544.github.io/superheroapp.github.io/
+
 # Superhero Hunter App
 
 Welcome to the Superhero Hunter App! This web application allows users to search for their favorite superheroes, view detailed information about them, and add them to their list of favorites.
@@ -27,11 +29,7 @@ To run the Superhero Hunter App locally, follow these steps:
 2. Open the `index.html` file in your web browser.
 3. Start searching for your favorite superheroes and enjoy exploring their details!
 
-## Screenshots
 
-![Screenshot 1](screenshots/screenshot.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
 
 ## Credits
 
